@@ -1,0 +1,86 @@
+{
+  "topics": {
+    "clothes": {},
+    "electronics": {},
+    "vehicles": {
+      "two wheelers": {
+        "bikes": {},
+        "cycles": {}
+      },
+      "four wheelers": {
+        "cars": {
+	 "suv": {
+
+                "hyundai": {
+"creta":{
+                  
+                    "price": "9.46L"},
+               "santa fe":{
+                  
+                    "price": "23.6L"}
+                },
+                "mahindra": {
+                "xuv":{
+                  
+                    "price": "10.9L"}
+                },
+                "renault": {
+                 "duster":{
+                  
+                    "price": "12.38L"},
+                  "koleos":{
+                  
+                    "price": "23.48L"}
+                  }
+                }
+              
+            ,
+            "mini": {
+               "hyundai": {
+"i20":{
+                  
+                    "price": "6.5L"},
+               "xcent":{
+                  
+                    "price": "4.6L"}
+                },
+                "mercedes": {
+                "a class":{
+                  
+                    "price": "24.7L"}
+                },
+                "tata": {
+                 "nano":{
+                  
+                    "price": "1.1L"},
+                  "indica":{
+                  
+                    "price": "4.75L"}
+                  }
+            },
+            "sedan": {
+         "hyundai": {
+"accent":{
+                  
+                    "price": "5.55L"}
+              
+                },
+                "mercedes": {
+                 "c class":{
+                  
+                    "price": "40.35L"},
+                  "e class":{
+                  
+                    "price": "64.18L"},
+ "s class":{
+                  
+                    "price": "125.87L"}
+                  }
+          }
+        },
+        "trucks": {},
+        "vans": {}
+      }
+    }
+  }
+}
